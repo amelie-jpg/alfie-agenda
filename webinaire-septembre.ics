@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//alfie formation//Webinaire Carole Laimay//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:webinaire-septembre-2026@alfieformation.com
+DTSTAMP:20260716T000000Z
+DTSTART:20260917T090000Z
+DTEND:20260917T103000Z
+SUMMARY:Webinaire alfie x Carole Laimay : Réguler son groupe
+DESCRIPTION:Webinaire 100% participatif, en distanciel, animé par Carole Laimay.\nInscription : https://bhteb63q2hw.typeform.com/to/L2dOyka0
+LOCATION:À distance
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
